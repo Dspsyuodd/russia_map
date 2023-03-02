@@ -1,2 +1,0 @@
-# russia_map
-sdf
